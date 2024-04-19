@@ -1,3 +1,6 @@
+# build packages/playground -> packages/playground/build
+npm run build-playground-prod
+
 <h1 align="center">
   <a href="https://lexical.dev">Lexical</a>
 </h1>
